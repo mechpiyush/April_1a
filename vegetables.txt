@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Karela
 Bhindi
 Palak
 
+=======
+Karela 
+Bhindi 
+Potato
+Palak
+>>>>>>> main
